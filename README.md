@@ -1,5 +1,8 @@
 # I2OS
 
+A recursive admissibility compression framework
+for continuity-compatible human-AI co-evolution.
+
 ## Recursive Admissibility Compression
 
 A Framework for Continuous Human-AI Co-Evolution
