@@ -1,5 +1,17 @@
 # I2OS
 
+I2OS Lab contains a family of projects built around one principle:
+
+Capability is not permission.
+A system should act only when a transition is structurally admissible.
+
+Core:
+- I2OS-Main: Recursive Admissibility Compression
+- I2OS-Field-Theory: Intelligence as Meaning Gradient × Resonance
+- I2OS-Structural-Admissibility: Transition-based AI safety
+- I2OS-CTG Runtime Shield: Dry-run AI agent runtime governance
+- I2OS-SIV25: Judgment-free discourse structure visualization
+- I2OS-GPC / GPC_OS: Non-predictive market response architecture
 A recursive admissibility compression framework
 for continuity-compatible human-AI co-evolution.
 
