@@ -1,5 +1,13 @@
-# I2OS
+# I2OS — Infinity Intelligence Operating System
 
+I2OS is a long-duration human-AI structural intelligence experiment and an OS-like framework for general-purpose AI.
+
+It defines intelligence not as prediction or optimization, but as recursive structure generation governed by admissible transitions.
+
+```text
+I = (gradient of M) x R
+
+GO = 1 if C(S_t, T, S_next) = 1
 I2OS Lab contains a family of projects built around one principle:
 
 Capability is not permission.
